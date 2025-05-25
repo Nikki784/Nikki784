@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita Gavhade</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user- attachments/assets/fec20563-57f1-4e70-8ba1-609658f83d9c)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c84f0248-3357-453d-8120-103ffe351ed1)
+">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikki784&label=Profile%20views&color=0e75b6&style=flat" alt="nikki784" /> </p>
 
