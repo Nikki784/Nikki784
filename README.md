@@ -1,3 +1,4 @@
+![logo](https://github.com/Nikki784/Nikki784/blob/main/Your%20paragraph%20text.png)
 <h1 align="center">Hi 👋, I'm Nikita Gavhade</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
